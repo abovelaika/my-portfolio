@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/abovelaika/my-portfolio/issues"
   },
-  "homepage": "https://github.com/abovelaika/my-portfolio#readme"
+  "homepage": "https://github.com/abovelaika/my-portfolio#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
 }
